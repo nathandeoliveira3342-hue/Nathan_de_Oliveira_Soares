@@ -1,6 +1,6 @@
 Copie e adapte o código abaixo para o arquivo README.md na raiz do seu repositório.
 
-# Nathan de Oliveira Soares
+# [Nathan de Oliveira Soares]
 > Estudante de Ciências da Computação, Nathan de Olivera Soares 
  
 ---
@@ -16,7 +16,7 @@ Copie e adapte o código abaixo para o arquivo README.md na raiz do seu reposit�
 Atualmente cursando o 2º semestre de Ciências da Computação na Universidade da Cidade de São Paulo - UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desevolvimento backend, explorando futuramnete Java, Python e C#. Valorizo muito o foco para resolver desafios e entregar resultados, Tenho vontade de aprender, contribuir e construir uma trajetória solida dentro dessa área.
  
 * **Habilidades Técnicas:** Python, HTML, CSS, JavaScript, SQL, C#.
-* **Habilidades Socioemocionais:** Trabalho em equipe, Proatividade, comunicação assertiva e pensamento crítico.
+* **Habilidades Socioemocionais:** Trabalho em equipe, proatividade, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
 ---
@@ -47,7 +47,8 @@ Atualmente cursando o 2º semestre de Ciências da Computação na Universidade 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Corrida do Prompt** | Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto]([Projeto de Refinação de Prompt.pdf](https://github.com/user-attachments/files/27145263/Projeto.de.Refinacao.de.Prompt.pdf)
+| **Corrida do Prompt** | Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto](
+)
 ) |
 
 | Projeto | Descrição | Link |
