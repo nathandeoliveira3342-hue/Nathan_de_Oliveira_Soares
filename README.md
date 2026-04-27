@@ -1,6 +1,6 @@
-Copie e adapte o código abaixo para o arquivo README.md na raiz do seu repositório.
 
-# [Nathan de Oliveira Soares]
+
+# Nathan de Oliveira Soares
 > Estudante de Ciências da Computação, Nathan de Olivera Soares 
  
 ---
