@@ -1,22 +1,22 @@
 Copie e adapte o código abaixo para o arquivo README.md na raiz do seu repositório.
 
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# Nathan de Oliveira Soares
+> Estudante de Ciências da Computação, Nathan de Olivera Soares 
  
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-oliveira-4a2656360/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathandeolivera3342@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o 2º semestre de Ciências da Computação na Universidade da Cidade de São Paulo - UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desevolvimento backend, explorando futuramnete Java, Python e C#. Valorizo muito o foco para resolver desafios e entregar resultados, Tenho vontade de aprender, contribuir e construir uma trajetória solida dentro dessa área.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Habilidades Técnicas:** Python, HTML, CSS, JavaScript, SQL, C#.
+* **Habilidades Socioemocionais:** Trabalho em equipe, Proatividade, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
 ---
@@ -26,6 +26,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
  
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,8 +47,12 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
+| **Corrida do Prompt** | Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto]([Projeto de Refinação de Prompt.pdf](https://github.com/user-attachments/files/27145263/Projeto.de.Refinacao.de.Prompt.pdf)
+) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 ---
  
 ### 🏗 Estrutura do Repositório
