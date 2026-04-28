@@ -1,4 +1,4 @@
-# 🎬 QR Code Styling (Copia) - Gerador Customizável
+# QR Code Styling (Copia) - Gerador Customizável
  
 ## 📝 Descrição do Projeto
 Este projeto consiste em uma ferramenta avançada de geração e estilização de códigos QR, desenvolvida através da técnica de "Vibecoding" (clonagem de interface assistida por IA). O objetivo principal é transformar códigos QR genéricos em peças de design únicas, permitindo que marcas e desenvolvedores integrem códigos funcionais que respeitem sua identidade visual.
