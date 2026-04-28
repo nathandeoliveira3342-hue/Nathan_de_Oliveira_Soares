@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/b34ff920-53ad-40f6-be08-bf735ea515e6
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# 🎬 QR Code Styling (Copia) - Gerador Customizável
+ 
+## 📝 Descrição do Projeto
+Este projeto consiste em uma ferramenta avançada de geração e estilização de códigos QR, desenvolvida através da técnica de "Vibecoding" (clonagem de interface assistida por IA). O objetivo principal é transformar códigos QR genéricos em peças de design únicas, permitindo que marcas e desenvolvedores integrem códigos funcionais que respeitem sua identidade visual.
+ 
+Desenvolvido como um exercício prático de **Engenharia Reversa e Prototipagem Rápida**, o sistema permite a customização granular de cada elemento: desde a forma dos pixels e cantos até a inclusão de logotipos centrais e fundos gradientes dinâmicos que se sincronizam com a paleta de cores escolhida.
+ 
+http://googleusercontent.com/image_generation_content/0
+*Figura 1: Interface principal do sistema exibindo o preview em tempo real e painel de controle.*
+ 
+## 🚀 Tecnologias Utilizadas
+* **Linguagem:** TypeScript 
+* **Bibliotecas:** qr-code-styling, Tailwind CSS, Motion
+* **Ferramentas:** Vite, Google AI Studio (Gemini 2.0)
+ 
+## 📊 Resultados e Aprendizados
+O projeto atingiu a paridade visual e funcional com a ferramenta de referência, demonstrando o poder da codificação assistida por IA.
+* **Renderização Instantânea:** Implementação de um fluxo reativo que atualiza o QR Code em menos de 100ms após qualquer mudança de parâmetro.
+* **Clean Code e Componentização:** Aprendi a estruturar gavetas de opções (Accordions) e layouts complexos de forma modular e reutilizável.
+* **Sincronização Visual:** Implementação de gradientes CSS dinâmicos que vinculam o estilo da interface à cor principal do produto gerado.
+ 
+## 🔧 Como Executar
+1. Escolah um site.
+2. Faça um codigo um prompt tecninco bem claro sobre os elementos.
+3. Execute o comando no Google IaA Studio.
+ 
+ 
+---
+[Voltar ao início](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares)
