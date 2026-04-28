@@ -38,21 +38,20 @@ Atualmente cursando o 2º semestre de Ciências da Computação na Universidade 
 ---
  
 ### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
+
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Corrida do Prompt** | Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20refina%C3%A7%C3%A3o%20de%20prompt)
-) |
+| **Corrida do Prompt** | Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20refina%C3%A7%C3%A3o%20de%20prompt) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **QR code styling** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
+| **QR code styling** | Site feito em Vibecode clonando o site QR code styling. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **SmartSquare** | Site feito em Vibecode com base em no site QR code styling. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
+
 ---
  
 ### 🏗 Estrutura do Repositório
