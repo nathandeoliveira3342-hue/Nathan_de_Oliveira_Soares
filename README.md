@@ -52,6 +52,10 @@ Atualmente cursando o 2º semestre de Ciências da Computação na Universidade 
 | :--- | :--- | :---: |
 | **SmartSquare** | Site feito em Vibecode com base em no site QR code styling. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Classificação com IA** | Analise de compportamento com base na visão de esteriotipos da IA. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20calssifica%C3%A7%C3%A3o%20com%20IA) |
+
 ---
  
 ### 🏗 Estrutura do Repositório
