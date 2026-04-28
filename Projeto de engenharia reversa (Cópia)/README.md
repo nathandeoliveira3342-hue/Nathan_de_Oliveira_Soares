@@ -5,7 +5,8 @@ Este projeto consiste em uma ferramenta avançada de geração e estilização d
  
 Desenvolvido como um exercício prático de **Engenharia Reversa e Prototipagem Rápida**, o sistema permite a customização granular de cada elemento: desde a forma dos pixels e cantos até a inclusão de logotipos centrais e fundos gradientes dinâmicos que se sincronizam com a paleta de cores escolhida.
  
-http://googleusercontent.com/image_generation_content/0
+
+<img width="1066" height="432" alt="image" src="https://github.com/user-attachments/assets/42378f52-eefa-4dd1-82ae-5f7cbf3e1afc" />
 *Figura 1: Interface principal do sistema exibindo o preview em tempo real e painel de controle.*
  
 ## 🚀 Tecnologias Utilizadas
