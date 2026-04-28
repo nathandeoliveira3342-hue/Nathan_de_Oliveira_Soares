@@ -52,7 +52,7 @@ Atualmente cursando o 2º semestre de Ciências da Computação na Universidade 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **QR code styling** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **QR code styling** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
 ---
  
 ### 🏗 Estrutura do Repositório
