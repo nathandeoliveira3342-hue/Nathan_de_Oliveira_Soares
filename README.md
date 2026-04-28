@@ -47,13 +47,12 @@ Atualmente cursando o 2º semestre de Ciências da Computação na Universidade 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Corrida do Prompt** | Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto](
-)
+| **Corrida do Prompt** | Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares/tree/main/Projeto%20de%20refina%C3%A7%C3%A3o%20de%20prompt)
 ) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **QR code styling** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 ---
  
 ### 🏗 Estrutura do Repositório
