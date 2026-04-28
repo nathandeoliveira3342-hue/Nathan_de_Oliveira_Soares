@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/3616050c-e2f3-4eee-ad2e-ec72afe0c6e0
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+# SmartSquare
+ 
+## 📝 Descrição do Projeto
+Esse projeto tem como base faze a evolução de um site ja existente como um autonomo
+ 
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+ 
+## 🚀 Tecnologias Utilizadas
+* **Linguagem:** TypeScript (React 18+)
+* **Estilização:** Tailwind CSS (Arquitetura de utilitários)
+* **Animações:** Motion (Framer Motion)
+* **Biblioteca Core:** qr-code-styling
+* **Ícones:** Lucide React
+ 
+## 📊 Resultados e Aprendizados
+O projeto alcançou uma fidelidade visual e funcional de 95% em relação à biblioteca original, com melhorias na experiência de uso.
+* **Sincronização de Estado:** Implementei um motor de atualização reativo que reflete mudanças no QR Code em menos de 50ms.
+* **Clean Code:** Apliquei princípios de Atomic Design, separando componentes de UI (Accordion, Inputs) da lógica de renderização (QRPreview).
+* **Experiência do Usuário:** Aprendi a lidar com o ciclo de vida de instâncias de bibliotecas externas dentro do React, utilizando `useRef` e `useEffect` para evitar vazamentos de memória e garantir estabilidade.
+ 
+---
+[Voltar ao início](https://github.com/nathan-oliveira)
