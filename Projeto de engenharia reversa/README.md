@@ -20,4 +20,4 @@ O projeto alcançou uma fidelidade visual e funcional de 95% em relação à bib
 * **Experiência do Usuário:** Aprendi a lidar com o ciclo de vida de instâncias de bibliotecas externas dentro do React, utilizando `useRef` e `useEffect` para evitar vazamentos de memória e garantir estabilidade.
  
 ---
-[Voltar ao início](https://github.com/nathan-oliveira)
+[Voltar ao início](https://github.com/nathandeoliveira3342-hue/Nathan_de_Oliveira_Soares)
