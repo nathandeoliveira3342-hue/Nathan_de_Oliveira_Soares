@@ -25,7 +25,7 @@ Atualmente cursando o 2º semestre de Ciências da Computação na Universidade 
  
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c#-512BD4?style=for-the-badge&logo=c#&logoColor=ffdd54)
+
 
 
 #### 🗄️ Banco de Dados
