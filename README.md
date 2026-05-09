@@ -1,19 +1,19 @@
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# Nathan de Oliveira Soares
+> Estudante de de Ciência da Computação
  
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nathan-oliveira-4a2656360/))
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nathandeoliveira3342@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o 2º semestre de Ciência da Computação na Universidade da Cidade de São paulo - UNICID. Sou uma pessoa proativa, comunicativa e sempre aberta a aprender. Tenho conhecimentos em Git hub, HTML, CSS, JavaScript, C e Banco de Dados relacionais, e busco constantemente aprimorar minhas habilidades técnicas e práticas. Acredito que cada oportunidade é uma chance de crescer, e por isso estou em busca de uma entrada na área de tecnologia, seja em um estágio ou posição inicial que me permita evoluir profissionalmente.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** Python, JavaScript, SQL, C#.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
@@ -36,19 +36,13 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
-
- 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Classificação com IA** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20calssifica%C3%A7%C3%A3o%20com%20IA) |
-| **QR Code Styling** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
-| **SmartSquare** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa) |
-| **Refinaria e precisão de prompt** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20refina%C3%A7%C3%A3o%20de%20prompt) |
+| **Classificação com IA** | Uma experiencia testando os esteriotipos da IA com poucas informações. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20calssifica%C3%A7%C3%A3o%20com%20IA) |
+| **QR Code Styling** | Uma copia de um site usando engenharia reversa. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
+| **SmartSquare** | Um site usando vibe coding engenharia reversa. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa) |
+| **Refinaria e precisão de prompt** | Refinação de resultado com poucos prompts disponivies. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20refina%C3%A7%C3%A3o%20de%20prompt) |
  
 ---
  
