@@ -4,10 +4,6 @@
 
 > Converse por vídeo e realize votações interativas em tempo real — tudo em um único app Android nativo.
 
-## Preview
-
-Link para acesso:([DecideTogheter](https://decidetalk-m78vmgoz.manus.space))
-<img width="175" height="236" alt="Captura de tela 2026-05-09 144332" src="https://github.com/user-attachments/assets/c9fbfacf-99ab-4952-be35-3d2248df1100" />
 
 ---
 
@@ -227,6 +223,13 @@ git push -u origin main
 | Android alvo | Android 14 (API 34) |
 | Arquiteturas | arm64-v8a, armeabi-v7a, x86_64 |
 | Orientação | Portrait (retrato) |
+
+---
+
+## Preview
+
+Link para acesso:([DecideTogheter](https://decidetalk-m78vmgoz.manus.space))
+<img width="175" height="236" alt="Captura de tela 2026-05-09 144332" src="https://github.com/user-attachments/assets/c9fbfacf-99ab-4952-be35-3d2248df1100" />
 
 ---
 
