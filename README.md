@@ -45,10 +45,10 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Classificação com IA** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20calssifica%C3%A7%C3%A3o%20com%20IA) |
+| **QR Code Styling** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
+| **SmartSquare** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa) |
+| **Refinaria e precisão de prompt** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20refina%C3%A7%C3%A3o%20de%20prompt) |
  
 ---
  
