@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo do DecideTogether: dois círculos sobrepostos representando colaboração -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Círculo de fundo (gradiente simulado com camadas) -->
+    <path
+        android:fillColor="#6C63FF"
+        android:pathData="M60,10 A50,50 0 1,1 59.99,10 Z" />
+
+    <!-- Símbolo de voto/check estilizado -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,55 L52,70 L82,40"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Pessoas/grupo (ícone simplificado) -->
+    <path
+        android:fillColor="#00D4AA"
+        android:pathData="M30,85 Q30,75 40,75 Q50,75 50,85 Z
+                          M50,85 Q50,75 60,75 Q70,75 70,85 Z
+                          M70,85 Q70,75 80,75 Q90,75 90,85 Z" />
+</vector>
