@@ -1,9 +1,11 @@
 # DecideTogether
-Link para acesso:([DecideTogheter](https://decidetalk-m78vmgoz.manus.space))
 
 **Plataforma de videoconferência para tomada de decisões em grupo**
 
 > Converse por vídeo e realize votações interativas em tempo real — tudo em um único app Android nativo.
+
+Link para acesso:([DecideTogheter](https://decidetalk-m78vmgoz.manus.space))
+<img width="175" height="236" alt="Captura de tela 2026-05-09 144332" src="https://github.com/user-attachments/assets/c9fbfacf-99ab-4952-be35-3d2248df1100" />
 
 ---
 
