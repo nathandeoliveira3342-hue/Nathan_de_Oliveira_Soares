@@ -43,6 +43,7 @@ Atualmente cursando o 2º semestre de Ciência da Computação na Universidade d
 | **QR Code Styling** | Uma copia de um site usando engenharia reversa. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
 | **SmartSquare** | Um site usando vibe coding engenharia reversa. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa) |
 | **Refinaria e precisão de prompt** | Refinação de resultado com poucos prompts disponivies. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20refina%C3%A7%C3%A3o%20de%20prompt) |
+| **DecideTogheter** | Um aplicativo de decisão em grupo integrado com jitsi. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20DecideTogheter) |
  
 ---
  
