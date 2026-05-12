@@ -1,3 +1,5 @@
+SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi  
+
 # DecideTogether
 
 **Plataforma de videoconferência para tomada de decisões em grupo**
