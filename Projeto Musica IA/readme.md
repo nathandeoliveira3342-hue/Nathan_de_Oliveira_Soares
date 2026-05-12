@@ -1,3 +1,5 @@
+SM8 - Composição Musical Assistida por Inteligência Artificial  
+
 # 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
  
 ![GitHub language count](https://img.shields.io/github/languages/count/[SEU_USUARIO]/projeto-musica-ia?style=for-the-badge)
