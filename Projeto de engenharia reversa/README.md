@@ -1,3 +1,5 @@
+SM5 - Do Clone ao Produto Mínimo Viável (MVP+)  
+
 # SmartSquare
  
 ## 📝 Descrição do Projeto
