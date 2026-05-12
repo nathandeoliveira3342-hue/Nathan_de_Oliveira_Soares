@@ -1,2 +1,1 @@
-
 SM2 - Laboratório de Classificação Visual  
