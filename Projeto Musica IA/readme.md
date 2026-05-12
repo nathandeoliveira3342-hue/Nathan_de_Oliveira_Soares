@@ -20,11 +20,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | **Farol Antigo** | [Estilo, ex: Nova MPB] | [Farol Antigo.mp3](./audio/Farol%20Antigo.mp3) |
-| 02 | **Luz Azul do Viaduto** | [Estilo, ex: Indie Pop] | [Luz Azul do Viaduto.mp3](./audio/Luz%20Azul%20do%20Viaduto.mp3) |
-| 03 | **Que pena** | [Estilo, ex: Samba / Bossa] | [Que pena.mp3](./audio/Que%20pena.mp3) |
-| 04 | **Verão no Peito** | [Estilo, ex: Pop Nacional] | [Verão no Peito.mp3](./audio/Ver%C3%A3o%20no%20Peito.mp3) |
-| 05 | **Casaco na Cadeira** | [Estilo, ex: Acústico] | [Casaco na Cadeira.mp3](./audio/Casaco%20na%20Cadeira.mp3) |
+| 01 | **Farol Antigo** | MPB | [Farol Antigo.mp3](./audio/Farol%20Antigo.mp3) |
+| 02 | **Luz Azul do Viaduto** | MPB | [Luz Azul do Viaduto.mp3](./audio/Luz%20Azul%20do%20Viaduto.mp3) |
+| 03 | **Que pena** | MPB] | [Que pena.mp3](./audio/Que%20pena.mp3) |
+| 04 | **Verão no Peito** | MPB | [Verão no Peito.mp3](./audio/Ver%C3%A3o%20no%20Peito.mp3) |
+| 05 | **Casaco na Cadeira** | MPB | [Casaco na Cadeira.mp3](./audio/Casaco%20na%20Cadeira.mp3) |
 
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
