@@ -1,3 +1,5 @@
+SM1 - A Corrida do Prompt  
+
 # Refinaria e precisão de prompt
  
 ## 📝 Descrição do Projeto
