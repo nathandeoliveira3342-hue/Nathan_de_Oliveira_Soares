@@ -21,10 +21,10 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
 | 01 | **Farol Antigo** | MPB | [Farol Antigo.mp3](./Musicas/Farol%20Antigo.mp3) |
-| 02 | **Luz Azul do Viaduto** | MPB | [Luz Azul do Viaduto.mp3](./audio/Luz%20Azul%20do%20Viaduto.mp3) |
-| 03 | **Que pena** | MPB] | [Que pena.mp3](./audio/Que%20pena.mp3) |
-| 04 | **Verão no Peito** | MPB | [Verão no Peito.mp3](./audio/Ver%C3%A3o%20no%20Peito.mp3) |
-| 05 | **Casaco na Cadeira** | MPB | [Casaco na Cadeira.mp3](./audio/Casaco%20na%20Cadeira.mp3) |
+| 02 | **Luz Azul do Viaduto** | MPB | [Luz Azul do Viaduto.mp3](./Musicaso/Luz%20Azul%20do%20Viaduto.mp3) |
+| 03 | **Que pena** | MPB] | [Que pena.mp3](./Musicas/Que%20pena.mp3) |
+| 04 | **Verão no Peito** | MPB | [Verão no Peito.mp3](./Musicas/Ver%C3%A3o%20no%20Peito.mp3) |
+| 05 | **Casaco na Cadeira** | MPB | [Casaco na Cadeira.mp3](./Musicas/Casaco%20na%20Cadeira.mp3) |
 
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
