@@ -39,12 +39,12 @@ Atualmente cursando o 2º semestre de Ciência da Computação na Universidade d
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Classificação com IA** | Uma experiencia testando os esteriotipos da IA com poucas informações. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20calssifica%C3%A7%C3%A3o%20com%20IA) |
-| **QR Code Styling** | Uma copia de um site usando engenharia reversa. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa%20(C%C3%B3pia)) |
-| **SmartSquare** | Um site usando vibe coding engenharia reversa. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20engenharia%20reversa) |
-| **Refinaria e precisão de prompt** | Refinação de resultado com poucos prompts disponivies. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20de%20refina%C3%A7%C3%A3o%20de%20prompt) |
+| **Classificação com IA** | Uma experiencia testando os esteriotipos da IA com poucas informações. | [Ver Projeto](Projeto-de-classificação-com-IA) |
+| **QR Code Styling** | Uma copia de um site usando engenharia reversa. | [Ver Projeto](Projeto-de-engenharia-reversa-(Cópia)) |
+| **SmartSquare** | Um site usando vibe coding engenharia reversa. | [Ver Projeto](Projeto-de-engenharia-reversa) |
+| **Refinaria e precisão de prompt** | Refinação de resultado com poucos prompts disponivies. | [Ver Projeto](Projeto-de-refinação-de-prompt) |
 | **DecideTogheter** | Um aplicativo de decisão em grupo integrado com jitsi. | [Ver Projeto](Projeto-DecideTogheter) |
-| **Musica Por IA** | Musica geradas em IA com inspiração em artistas de MPB/Bossa nova. | [Ver Projeto](https://github.com/nathandeoliveira3342-hue/portifolio-nathan_de_oliveira_soares/tree/main/Projeto%20Musica%20IA) |
+| **Musica Por IA** | Musica geradas em IA com inspiração em artistas de MPB/Bossa nova. | [Ver Projeto](Projeto-Musica-IA) |
 
  
 ---
